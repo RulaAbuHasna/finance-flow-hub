@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703276832135,
+      "tag": "0000_panoramic_bloodaxe",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703358036457,
+      "tag": "0001_slow_human_torch",
+      "breakpoints": true
+    }
+  ]
+}
